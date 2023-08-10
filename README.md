@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Darshan</h1>
 <h3 align="center">Full Stack Web Developer || Web3 Developer || Flutter Developer || Explorer</h3>
 
-- 🔭 I’m currently **exploring digital world**
+- 🔭 I’m currently **Full-stack Developer, Freelancer and a Technical Writer**
 
 - 🌱 I’m currently learning **Blockchain Technology**
 
