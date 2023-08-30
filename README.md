@@ -19,11 +19,15 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently **Full-stack Developer, Freelancer and a Technical Writer**
 
-- 🌱 I’m currently learning **Blockchain Technology**
+- 🌱 I’m currently learning **Full-Stack Development | Open-Source | DSA | Web3 (Solidity)**
+  
+-  ⚡ Framework : **Reactjs Nextjs**
 
-- 📫 How to reach me **darshanrajpurohit47@gmail.com**
+- 📫 Languages : Solidity(learning), JavaScript
 
-- ⚡ Fun fact **I am full of sarcasm**
+- 👋 How to reach me **darshanrajpurohit47@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
